@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="GroovyCompilerProjectConfiguration">
     <excludes>
-      <directory url="file://$PROJECT_DIR$/../../../sdk/groovy-2.4.3" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/sdk/groovy-2.4.3" includeSubdirectories="true" />
     </excludes>
   </component>
   <component name="MavenImportPreferences">
